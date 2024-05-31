@@ -1,0 +1,16 @@
+.tabitem-li {
+  list-style-type: none;
+}
+
+.btn {
+  font-family: 'Roboto';
+  color: #7b8794;
+  background-color: transparent;
+  border-color: transparent;
+  text-decoration: underline;
+  cursor: pointer;
+  outline: none;
+}
+.add-color {
+  color: #2563eb;
+}

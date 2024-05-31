@@ -1,0 +1,28 @@
+.appitem-li {
+  background-color: #ffffff;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #ffffff;
+  outline: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 85px;
+  height: 98px;
+  margin: 10px;
+  padding: 10px;
+  flex-grow: grow;
+}
+
+.img {
+  margin-top: 15px;
+  width: 100%;
+}
+
+.img-name {
+  margin-top: 3px;
+  font-family: 'Bree Serif';
+  font-size: 11px;
+  padding-bottom: 2px;
+}
